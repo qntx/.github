@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Qntx">
-<img src="./qntx_transparent.png" alt="QNTX" width="200" height="auto" />
+<img src="./qntx_transparent.svg" alt="QNTX" width="200" height="auto" />
 </a>
 </p>
 
