@@ -7,7 +7,7 @@
     }
   </style>
   <g fill="currentColor">
-    <path d="M80 80h240v240h-240z M160 160h80v80h-80z" fill-rule="evenodd"></path>
+    <path d="M80 80h240v240h-240z M160 160h80v80h-80z M240 240h80v80h-80z" fill-rule="evenodd"></path>
     <path d="M400 80 L480 80 L560 160 L560 80 L640 80 L640 320 L560 320 L480 240 L480 320 L400 320 Z"></path>
     <rect height="80" width="240" y="400" x="80"></rect>
     <rect height="160" width="80" y="480" x="160"></rect>
