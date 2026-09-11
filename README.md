@@ -1,6 +1,14 @@
+<!-- markdownlint-disable MD033 MD041 -->
+
 # .github
 
-Organisation wide GitHub configuration files.
+Organisation-wide GitHub configuration files.
+
+## License
+
+Licensed under the MIT License ([LICENSE](LICENSE) or <https://opensource.org/licenses/MIT>).
+
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in this project shall be licensed as above, without any additional terms or conditions.
 
 ---
 
